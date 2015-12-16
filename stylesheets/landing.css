@@ -1,0 +1,109 @@
+/**********************************
+GENERAL
+***********************************/
+
+
+/**********************************
+NAVIGATION 
+***********************************/
+
+
+
+/**********************************
+HEADER
+***********************************/
+
+.portrait{
+    max-width:auto;
+    max-height:250px;
+}
+
+.jumbotron{
+    text-align:center;
+    margin-bottom:10px;
+    height:500px;
+    padding-top:50px;
+}
+
+.portrait_name{
+    width:320px;
+    margin:0 auto;
+    padding:20px;
+    border-radius:20px;
+}
+
+/**********************************
+MAIN CONTENT
+***********************************/
+.thumbnail_space{
+    max-width:90%;
+    margin:0 auto;
+}
+
+.thumbnail_image{
+  max-height:200px;
+  max-width:242px;
+}
+
+article{
+    width:90%;
+    margin:0 auto;
+    padding:10px;
+    border-radius:10px;
+    margin-bottom:10px;
+}
+
+/**********************************
+FOOTER - Layout and Sizing
+***********************************/
+footer{
+    height:100px;
+    text-align:center;
+    padding:20px;
+}
+
+/**********************************
+PAGE: _______
+***********************************/
+
+
+
+/**********************************
+FONTS
+***********************************/
+.portrait_name{
+    font-family: 'Audiowide', cursive;
+}
+
+/**********************************
+COLORS and BACKGROUNDS
+Color 1: #eee
+Color 1:
+Color 1:
+Color 1:
+Color 1:
+***********************************/
+
+article{
+    background:#229;
+}
+
+footer{
+    background:#eee;
+}
+
+.jumbotron{
+  background: url('https://lh3.googleusercontent.com/DmBYoTSJZsyZpGgOopH51CDk8V459z4TEOBXbI2btQeHR1xlSFuku20qutZSvaAb2dSHLWvpdE9xZQXD6oGDaBTEfdGmZLrn_IRty8V5OMwRwMPlpeL-9uQIXlWhzBKYba6sR9L5qKzHqq58MwxDnRIfL1yRQr5rHszJnmxAvyi1o7i4o20C8h2a_JRcZm-0MwCS6oXSShcx55aScsbLATrF1gkkt12UvZNe72JAO8jqWy3T12DLkgCOe_jbOeIk_JLHSy67bg53gbC-KOYxRK4raeNXK4RzxbAZGn4J3xXlXUVA2Yy3R4mDNSCwhH7kI_APXhmCjSjjiSkcYhQ12SRDTbbuyUhmMAflO5wlzyjYrF0nkHBOTdVeKMDSAtVmO0EJV2HIbLVyGatnlbU6cR6PC0NJAUHMoN-y1aJQExsLD9Wvvv1OpF5O78nK9vuIpmaO-xUKfLStnjrdfl-YtLU1sw9Lfv7TgbRYgMznRL53UFQDiJ63_osFgrnY2ueOm8312mZ_qm81hoHzrvYKpa1qo1pS57GysRk9oOUR6PHWQWGQuI_sQ0xU9vntUV1cTAn9=s799-no') no-repeat center;
+  background-size: cover;
+}
+
+.portrait_name{
+    background: rgba(230, 230, 230, 0.7);
+}
+
+.navbar {
+    background: #18007A;
+}
+#bs-example-navbar-collapse-1 > ul:nth-child(1) > li.active > a , footer{
+    background: #FFFFFB;
+}
