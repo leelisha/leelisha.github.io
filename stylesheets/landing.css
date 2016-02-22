@@ -85,7 +85,7 @@ Color 1:
 ***********************************/
 
 article{
-    background:#229;
+    background:#683B69;
 }
 
 footer{
@@ -93,7 +93,7 @@ footer{
 }
 
 .jumbotron{
-  background: url('https://lh3.googleusercontent.com/DmBYoTSJZsyZpGgOopH51CDk8V459z4TEOBXbI2btQeHR1xlSFuku20qutZSvaAb2dSHLWvpdE9xZQXD6oGDaBTEfdGmZLrn_IRty8V5OMwRwMPlpeL-9uQIXlWhzBKYba6sR9L5qKzHqq58MwxDnRIfL1yRQr5rHszJnmxAvyi1o7i4o20C8h2a_JRcZm-0MwCS6oXSShcx55aScsbLATrF1gkkt12UvZNe72JAO8jqWy3T12DLkgCOe_jbOeIk_JLHSy67bg53gbC-KOYxRK4raeNXK4RzxbAZGn4J3xXlXUVA2Yy3R4mDNSCwhH7kI_APXhmCjSjjiSkcYhQ12SRDTbbuyUhmMAflO5wlzyjYrF0nkHBOTdVeKMDSAtVmO0EJV2HIbLVyGatnlbU6cR6PC0NJAUHMoN-y1aJQExsLD9Wvvv1OpF5O78nK9vuIpmaO-xUKfLStnjrdfl-YtLU1sw9Lfv7TgbRYgMznRL53UFQDiJ63_osFgrnY2ueOm8312mZ_qm81hoHzrvYKpa1qo1pS57GysRk9oOUR6PHWQWGQuI_sQ0xU9vntUV1cTAn9=s799-no') no-repeat center;
+  background: url(URL=http://s1377.photobucket.com/user/Willow_Crown/media/MonogramIt_002_zpsovloebl6.png.html][IMG]http://i1377.photobucket.com/albums/ah41/Willow_Crown/MonogramIt_002_zpsovloebl6.png[/IMG][/URL]') no-repeat center;
   background-size: cover;
 }
 
@@ -102,8 +102,8 @@ footer{
 }
 
 .navbar {
-    background: #18007A;
+    background: #683B69;
 }
 #bs-example-navbar-collapse-1 > ul:nth-child(1) > li.active > a , footer{
-    background: #FFFFFB;
+    background: #683B69;
 }
